@@ -34,10 +34,23 @@ Thank you to Rafael Yuste and all of the early beta testers in the Yuste lab. Mo
 ## References
 
 ### 2015
+
 Packer AM, Russell LE, Dalgleish HWP, Häusser M (2015) Simultaneous all-optical targeted manipulation and recording of neural circuit activity with cellular resolution in vivo. Nature Methods 12:140-146.
 [LINK](http://www.nature.com/nmeth/journal/v12/n2/full/nmeth.3217.html)
 
+Sederberg AJ, Palmer SE, MacLean JN (2015) Decoding thalamic afferent input using microcircuit spiking activity. J Neurophysiol 113(7):2921-33. 
+[LINK](http://jn.physiology.org/content/113/7/2921.long)
+
 ### 2014
+
+Runfeldt MJ, Sadovsky AJ, MacLean JN (2014) Acetylcholine functionally reorganizes neocortical microcircuits. J Neurophysiol 112(5):1205-16.
+[LINK](http://jn.physiology.org/content/112/5/1205.long)
+
+Sadovsky AJ, MacLean JN (2014) Mouse visual neocortex supports multiple stereotyped patterns of microcircuit activity. J Neurosci 34(23):7769-77.
+[LINK](http://www.jneurosci.org/content/34/23/7769.long)
+
+Neubauer FB, Sederberg A, MacLean JN (2014) Local changes in neocortical circuit dynamics coincide with the spread of seizures to thalamus in a model of epilepsy. Front Neural Circuits 8:101.
+[LINK](http://journal.frontiersin.org/article/10.3389/fncir.2014.00101/abstract)
 
 Araya R, Vogels TP, Yuste R (2014) Activity-dependent dendritic spine neck changes are correlated with synaptic strength. PNAS 111(28):E2895-904.
 [LINK](http://www.pnas.org/content/111/28/E2895.long)
@@ -55,6 +68,12 @@ Sippy T, Yuste R (2013) Decorrelating action of inhibition in neocortical networ
 
 Packer AM, McConnell DJ, Fino E, Yuste R (2013) Axo-dendritic overlap and laminar projection can explain interneuron connectivity to pyramidal cells. Cerebral Cortex 23(12):2790-2802. *Selected for cover
 [LINK](http://cercor.oxfordjournals.org/content/23/12/2790.long)
+
+Sadovsky AJ, MacLean JN (2013) Scaling of topologically similar functional modules defines mouse primary auditory and somatosensory microcircuitry. J Neurosci.  Aug 28;33(35):14048-60, 14060a.
+[LINK](www.jneurosci.org/content/33/35/14048.abstract)
+
+Kruskal PB, Li L, MacLean JN (2013) Circuit reactivation dynamically regulates synaptic plasticity in neocortex. Nat Commun 4:2574.
+[LINK](http://www.nature.com/ncomms/2013/131010/ncomms3574/full/ncomms3574.html)
 
 ### 2012
 
@@ -77,6 +96,9 @@ Packer AM, Yuste R (2011) Dense, unspecific connectivity of neocortical parvalbu
 
 Ahmadian Y, Packer AM, Yuste R, Paninski L (2011) Designing optimal stimuli to control neuronal spike timing. J. Neurophys. 106(2):1038-1053.
 [LINK](http://jn.physiology.org/content/106/2/1038.long)
+
+Sadovsky AJ, Kruskal PB, Kimmel JM, Ostmeyer J, Neubauer FB, MacLean JN (2011) Heuristically optimal path scanning for high-speed multiphoton circuit imaging. J Neurophysiol 106(3):1591-8.
+[LINK](http://jn.physiology.org/content/106/3/1591.long)
 
 ### 2010
 
