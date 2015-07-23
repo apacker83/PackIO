@@ -58,6 +58,9 @@ Araya R, Vogels TP, Yuste R (2014) Activity-dependent dendritic spine neck chang
 Quirin, S, Jackson S, Peterka DS, Yuste R (2014) Simultaneous imaging of neural activity in three dimensions. Front Neural Circuits 8:29.
 [LINK](http://journal.frontiersin.org/article/10.3389/fncir.2014.00029/full)
 
+Izquierdo-Serra M, Gascón-Moya M, Hirtz JJ, Pittolo S, Poskanzer KE, Ferrer È, Alibés R, Busqué F, Yuste R, Hernando J, Gorostiza P (2014) Two-photon neuronal and astrocytic stimulation with azobenzene-based photoswitches. J Am Chem Soc 136(24)8693-701.
+[LINK](http://pubs.acs.org/doi/abs/10.1021/ja5026326)
+
 ### 2013
 
 Araya R, Andino-Pavlovsky V, Yuste R, Etchenique R (2013) Two-photon optical interrogation of individual dendritic spines with caged dopamine. ACS Chem Neurosci. 4(8):1163-7.
