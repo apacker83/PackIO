@@ -27,10 +27,13 @@ Most National Instruments DAQ cards should work.  The following cards are known 
 ## Please cite the software
 Packer, A.M. Understanding the nervous system as an information processing machine: dense, nonspecific, canonical microcircuit architecture of inhibition in neocortex and a neural circuit for angular velocity computation. PhD thesis, Columbia University (2011).  Software available from www.packio.org.
 
+## Contributors
+Thank you to Rafael Yuste and all of the early beta testers in the Yuste lab. Mor Dar contributed some features to seal test and Carmen F. Fisac contributed the auto-incrementer available in version 273.
+
 ## References
 
 ### 2015
-Packer AM, Dalgleish HWP, Russell L, Häusser M (2015) Simultaneous all-optical targeted manipulation and recording of neural circuit activity with cellular resolution in vivo. Nature Methods 12:140-146.
+Packer AM, Russell L, Dalgleish HWP, Häusser M (2015) Simultaneous all-optical targeted manipulation and recording of neural circuit activity with cellular resolution in vivo. Nature Methods 12:140-146.
 [LINK](http://www.nature.com/nmeth/journal/v12/n2/full/nmeth.3217.html)
 
 ### 2014
