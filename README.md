@@ -7,6 +7,7 @@ During graduate school, I was making electrophysiological recordings and trying 
 1. Download and install ([32-bit](http://www.ni.com/download/labview-run-time-engine-2014/4887/en/) or [64-bit](http://www.ni.com/download/labview-run-time-engine-2014/4889/en/)) LabVIEW Runtime Engine (free).
 2. Download and install [DAQmx drivers](http://www.ni.com/dataacquisition/nidaqmx) (free). 
 3. Download and run [32-bit](https://github.com/apacker83/PackIO/releases/download/v273/PackIO_v273_LVRT2014_x86.exe) or [64-bit](https://github.com/apacker83/PackIO/releases/download/v273/PackIO_v273_LVRT2014_x64.exe) PackIO!
+4. See wiki on [How to view or import data created by PackIO](https://github.com/apacker83/PackIO/wiki/How-to-view-or-import-data-created-by-PackIO).
 
 ## Documentation
 Please read the [Github wiki](https://github.com/apacker83/PackIO/wiki).
