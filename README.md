@@ -33,6 +33,14 @@ Thank you to Rafael Yuste and all of the early beta testers in the Yuste lab. Mo
 
 ## References
 
+### 2016
+
+Karnani MM, Jackson J, Ayzenshtat I, Tucciarone J, Manoocheri K, Snider WG, Yuste R (2016) Cooperative subnetworks of molecularly similar interneurons in mouse neocortex. Neuron 90:86-100.
+[LINK](http://www.sciencedirect.com/science/article/pii/S0896627316001744)
+
+Karnani MM, Jackson J, Ayzenshtat I, Sichani AH, Manoocheri K, Kim S, Yuste R (2016) Opening holes in the blanket of inhibition: localized lateral disinhibition by VIP interneurons. J Neurosci 36(12):3471-3480.
+[LINK](http://www.jneurosci.org/content/36/12/3471.full)
+
 ### 2015
 
 Packer AM, Russell LE, Dalgleish HWP, Häusser M (2015) Simultaneous all-optical targeted manipulation and recording of neural circuit activity with cellular resolution in vivo. Nature Methods 12:140-146.
