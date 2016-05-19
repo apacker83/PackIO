@@ -26,7 +26,7 @@ Most National Instruments DAQ cards should work.  The following cards are known 
 * USB-6251
 
 ## Please cite the software
-Packer, A.M. Understanding the nervous system as an information processing machine: dense, nonspecific, canonical microcircuit architecture of inhibition in neocortex and a neural circuit for angular velocity computation. PhD thesis, Columbia University (2011).  Software available from www.packio.org.
+Watson BO, Yuste R, Packer AM (2016) PackIO and EphysViewer: software tools for acquisition and analysis of neuroscience data. bioRxiv http://dx.doi.org/10.1101/054080 Software available from www.packio.org.
 
 ## Contributors
 Thank you to Rafael Yuste and all of the early beta testers in the Yuste lab. Mor Dar contributed some features to seal test and Carmen F. Fisac contributed the auto-incrementer available in version 273.
