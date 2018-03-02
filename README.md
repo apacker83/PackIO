@@ -44,7 +44,7 @@ Dupre D, Yuste R (2017) Non-overlapping Neural Networks in Hydra vulgaris. Curre
 ### 2016
 
 Jayant K, Hirtz JJ, Jen-La Plante I, Tsai DM, De Boer WDAM, Semonche A, Peterka DS, Owen JS, Sahin O, Shepard KL, Yuste R (2016) Targeted intracellular voltage recordings from dendritic spines using quantum-dot-coated nanopipettes. Nature Nanotechnology 12:335-342.
-[LINK] (https://www.nature.com/articles/nnano.2016.268)
+[LINK](https://www.nature.com/articles/nnano.2016.268)
 
 Karnani MM, Jackson J, Ayzenshtat I, Tucciarone J, Manoocheri K, Snider WG, Yuste R (2016) Cooperative subnetworks of molecularly similar interneurons in mouse neocortex. Neuron 90:86-100.
 [LINK](http://www.sciencedirect.com/science/article/pii/S0896627316001744)
