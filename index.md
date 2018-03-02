@@ -12,9 +12,6 @@ During graduate school, I was making electrophysiological recordings and trying 
 ## Documentation
 Please read the [Github wiki](https://github.com/apacker83/PackIO/wiki).
 
-## Licensing
-PackIO and EphysViewer are released under the GNU General Public License.
-
 ## Compatible hardware
 Most National Instruments DAQ cards should work.  The following cards are known to work:
 * PCIe-6343
@@ -33,6 +30,9 @@ Watson BO, Yuste R, Packer AM (2016) PackIO and EphysViewer: software tools for 
 
 ## Contributors
 Thank you to Rafael Yuste and all of the early beta testers in the Yuste lab. Mor Dar contributed some features to seal test and Carmen F. Fisac contributed the auto-incrementer available in version 273.
+
+## Licensing
+PackIO and EphysViewer are released under the GNU General Public License.
 
 ## References
 
