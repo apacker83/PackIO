@@ -1,0 +1,8 @@
+title: PackIO
+description: Electrophysiology and synchronization with National Instruments cards
+google_analytics: UA-65389855-1
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
