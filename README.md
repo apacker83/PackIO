@@ -38,6 +38,8 @@ Thank you to Rafael Yuste and all of the early beta testers in the Yuste lab. Mo
 
 ### 2017
 
+Aitchison L, Russell L, Packer AM, Yan J, Castonguay P, Häusser M, Turaga SC (2017) Model-based Bayesian inference of neural activity and connectivity from all-optical interrogation of a neural circuit. Advances in Neural Information Processing Systems 3489-3498.
+
 Dupre D, Yuste R (2017) Non-overlapping Neural Networks in Hydra vulgaris. Current Biology 27:1085-1097.
 [LINK](https://www.sciencedirect.com/science/article/pii/S0960982217302208)
 
@@ -149,13 +151,13 @@ Fino E, Araya R, Peterka DS, Salierno M, Etchenique R, Yuste R (2009) RuBi-Gluta
 
 ### 2008
 
-Nikolenko V, Watson BO, Araya R, Woodruff A, Peterka DS, Yuste R (2008) SLM microscopy: scanless two-photon imaging and photostimulation with spatial light modulators. Front Neural Circuits 2(5).
+3. Nikolenko V, Watson BO, Araya R, Woodruff A, Peterka DS, Yuste R (2008) SLM microscopy: scanless two-photon imaging and photostimulation with spatial light modulators. Front Neural Circuits 2(5).
 [LINK](http://journal.frontiersin.org/article/10.3389/neuro.04.005.2008/full)
 
-Watson BO, Maclean JN, Yuste R (2008) UP States Protect Ongoing Cortical Activity from Thalamic Inputs. PLOS One 3(12).
+2. Watson BO, Maclean JN, Yuste R (2008) UP States Protect Ongoing Cortical Activity from Thalamic Inputs. PLOS One 3(12).
 [LINK](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0003971#s4)
 
 ### 2007
 
-Nikolenko V, Poskanzer KE, Yuste R (2007) Two-photon photostimulation and imaging of neural circuits. Nature Methods 4(11) :943-950.
+1. Nikolenko V, Poskanzer KE, Yuste R (2007) Two-photon photostimulation and imaging of neural circuits. Nature Methods 4(11) :943-950.
 [LINK](http://www.nature.com/nmeth/journal/v4/n11/full/nmeth1105.html)
