@@ -38,9 +38,14 @@ Thank you to Rafael Yuste and all of the early beta testers in the Yuste lab. Mo
 
 ### 2017
 
+37: Kwon T, Sakamoto M, Peterka DS, Yuste R (2017) Attenuation of Synaptic Potentials in Dendritic Spines. Cell Reports 20(5):1100-1110.
+[LINK](https://doi.org/10.1016/j.celrep.2017.07.012)
+
 36: Agetsuma M, Hamm JP, Tao K, Fujisawa S, Yuste R (2017) Parvalbumin-Positive Interneurons Regulate Neuronal Ensembles in Visual Cortex. Cerebral Cortex 1-15.
+[LINK](https://doi.org/10.1093/cercor/bhx169)
 
 35: Aitchison L, Russell L, Packer AM, Yan J, Castonguay P, Häusser M, Turaga SC (2017) Model-based Bayesian inference of neural activity and connectivity from all-optical interrogation of a neural circuit. Advances in Neural Information Processing Systems 3489-3498.
+[LINK](http://papers.nips.cc/paper/6940-model-based-bayesian-inference-of-neural-activity-and-connectivity-from-all-optical-interrogation-of-a-neural-circuit)
 
 34: Dupre D, Yuste R (2017) Non-overlapping Neural Networks in Hydra vulgaris. Current Biology 27:1085-1097.
 [LINK](https://www.sciencedirect.com/science/article/pii/S0960982217302208)
