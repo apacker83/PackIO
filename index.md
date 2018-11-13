@@ -36,6 +36,11 @@ Thank you to Rafael Yuste and all of the early beta testers in the Yuste lab. Mo
 
 ## References
 
+### 2018
+
+38: Zhang Z, Russell LE, Packer AM, Gauld OM, Häusser M (2018) Closed-loop all-optical interrogation of neural circuits in vivo Nature Methods
+[LINK](https://doi.org/10.1038/s41592-018-0183-z)
+
 ### 2017
 
 37: Kwon T, Sakamoto M, Peterka DS, Yuste R (2017) Attenuation of Synaptic Potentials in Dendritic Spines. Cell Reports 20(5):1100-1110.
