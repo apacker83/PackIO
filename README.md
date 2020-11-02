@@ -36,6 +36,14 @@ Thank you to Rafael Yuste and all of the early beta testers in the Yuste lab. Mo
 
 ## References
 
+### 2020
+
+40: Dalgleish HWP, Russell LE, Packer AM, Roth A, Gauld OM, Greenstreet F, Thompson EJ, Häusser M (2020) How many neurons are sufficient for perception of cortical activity? eLife [LINK] (https://doi.org/10.7554/eLife.58889)
+
+### 2019
+
+39: Russell LE, Yang Z, Pei LT, Fisek M, Packer AM, Dalgleish HWP, Chettih S, Harvey CD, Häusser M (2019) The influence of visual cortex on perception is modulated by behavioural state bioRxiv 706010 [LINK] (https://doi.org/10.1101/706010)
+
 ### 2018
 
 38: Zhang Z, Russell LE, Packer AM, Gauld OM, Häusser M (2018) Closed-loop all-optical interrogation of neural circuits in vivo Nature Methods [LINK](https://doi.org/10.1038/s41592-018-0183-z)
