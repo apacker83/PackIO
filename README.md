@@ -36,6 +36,10 @@ Thank you to Rafael Yuste and all of the early beta testers in the Yuste lab. Mo
 
 ## References
 
+### 2021
+
+41: Russell LE, Dalgleish HWP, Nutbrown R, Gauld OM, Herrmann D, Fişek M, Packer AM@, Häusser M@ (2021) All-optical interrogation of neural circuits in behaving mice bioRxiv 450430 [LINK] (https://doi.org/10.1101/2021.06.29.450430)
+
 ### 2020
 
 40: Dalgleish HWP, Russell LE, Packer AM, Roth A, Gauld OM, Greenstreet F, Thompson EJ, Häusser M (2020) How many neurons are sufficient for perception of cortical activity? eLife [LINK] (https://doi.org/10.7554/eLife.58889)
