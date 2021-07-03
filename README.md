@@ -38,7 +38,7 @@ Thank you to Rafael Yuste and all of the early beta testers in the Yuste lab. Mo
 
 ### 2021
 
-41: Russell LE, Dalgleish HWP, Nutbrown R, Gauld OM, Herrmann D, Fişek M, Packer AM@, Häusser M@ (2021) All-optical interrogation of neural circuits in behaving mice bioRxiv 450430 [LINK] (https://doi.org/10.1101/2021.06.29.450430)
+41: Russell LE, Dalgleish HWP, Nutbrown R, Gauld OM, Herrmann D, Fişek M, Packer AM, Häusser M (2021) All-optical interrogation of neural circuits in behaving mice bioRxiv 450430 [LINK] (https://doi.org/10.1101/2021.06.29.450430)
 
 ### 2020
 
