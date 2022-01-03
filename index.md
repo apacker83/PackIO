@@ -38,6 +38,8 @@ Thank you to Rafael Yuste and all of the early beta testers in the Yuste lab. Mo
 
 ### 2021
 
+42: Rowland JM, Van der Plas TL, Loidolt M, Lees RM, Keeling J, Dehning J, Akam T, Priesemann V, Packer AM (2021) Perception and propagation of activity through the cortical hierarchy is determined by neural variability. bioRxiv 474343 [LINK](https://doi.org/10.1101/2021.12.28.474343)
+
 41: Russell LE, Dalgleish HWP, Nutbrown R, Gauld OM, Herrmann D, Fişek M, Packer AM, Häusser M (2021) All-optical interrogation of neural circuits in behaving mice bioRxiv 450430 [LINK](https://doi.org/10.1101/2021.06.29.450430)
 
 ### 2020
