@@ -56,7 +56,7 @@ Thank you to Rafael Yuste and all of the early beta testers in the Yuste lab. Mo
 
 43: Russell LE, Yang Z, Pei LT, Fisek M, Packer AM, Dalgleish HWP, Chettih S, Harvey CD, Häusser M (2019) The influence of visual cortex on perception is modulated by behavioural state bioRxiv 706010 [LINK](https://doi.org/10.1101/706010)
 
-42: Bando Y, Sakamoto M, Kim S, Ayzenshtat I, Yuste R (2019) Comparative evaluation of genetically encoded voltage indicators. Cell Reports [LINK] (https://doi.org/10.1016/j.celrep.2018.12.088)
+42: Bando Y, Sakamoto M, Kim S, Ayzenshtat I, Yuste R (2019) Comparative evaluation of genetically encoded voltage indicators. Cell Reports [LINK](https://doi.org/10.1016/j.celrep.2018.12.088)
 
 41: Kostadinov D, Beau M, Blanco-Pozo M, Häusser M (2019) Predictive and reactive reward signals conveyed by climbing fiber inputs to cerebellar Purkinje cells. Nature Neuroscience [LINK](https://www.nature.com/articles/s41593-019-0381-8)
 
