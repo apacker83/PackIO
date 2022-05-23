@@ -38,11 +38,11 @@ Thank you to Rafael Yuste and all of the early beta testers in the Yuste lab. Mo
 
 ### 2022
 
-48: Shelton AM, Oliver DK, Grimstvedt JS, Lazarte IP, Kapoor I, Swann JA, Ashcroft CA, Williams SN, Conway N, Robinson A, Kentros CG, Witter MP, Butt SJB, Packer AM (2022) Single neurons and networks in the claustrum integrate input from widespread cortical sources. bioRxiv 490864 [LINK] (https://doi.org/10.1101/2022.05.06.490864)
+48: Shelton AM, Oliver DK, Grimstvedt JS, Lazarte IP, Kapoor I, Swann JA, Ashcroft CA, Williams SN, Conway N, Robinson A, Kentros CG, Witter MP, Butt SJB, Packer AM (2022) Single neurons and networks in the claustrum integrate input from widespread cortical sources. bioRxiv 490864 [LINK](https://doi.org/10.1101/2022.05.06.490864)
 
 ### 2021
 
-47: Bando Y, Wenzel M, Yuste R (2021) Simultaneous two-photon imaging of action potentials and subthreshold inputs in vivo. Nature Communications [LINK] (https://doi.org/10.1038/s41467-021-27444-9)
+47: Bando Y, Wenzel M, Yuste R (2021) Simultaneous two-photon imaging of action potentials and subthreshold inputs in vivo. Nature Communications [LINK](https://doi.org/10.1038/s41467-021-27444-9)
 
 46: Rowland JM, Van der Plas TL, Loidolt M, Lees RM, Keeling J, Dehning J, Akam T, Priesemann V, Packer AM (2021) Perception and propagation of activity through the cortical hierarchy is determined by neural variability. bioRxiv 474343 [LINK](https://doi.org/10.1101/2021.12.28.474343)
 
@@ -58,13 +58,13 @@ Thank you to Rafael Yuste and all of the early beta testers in the Yuste lab. Mo
 
 42: Bando Y, Sakamoto M, Kim S, Ayzenshtat I, Yuste R (2019) Comparative evaluation of genetically encoded voltage indicators. Cell Reports [LINK] (https://doi.org/10.1016/j.celrep.2018.12.088)
 
-41: Kostadinov D, Beau M, Blanco-Pozo M, Häusser M (2019) Predictive and reactive reward signals conveyed by climbing fiber inputs to cerebellar Purkinje cells. Nature Neuroscience [LINK] (https://www.nature.com/articles/s41593-019-0381-8)
+41: Kostadinov D, Beau M, Blanco-Pozo M, Häusser M (2019) Predictive and reactive reward signals conveyed by climbing fiber inputs to cerebellar Purkinje cells. Nature Neuroscience [LINK](https://www.nature.com/articles/s41593-019-0381-8)
 
-40: Szymanski J, Yuste R (2019) Mapping the whole-body muscle activity of Hydra vulgaris. Current Biology [LINK] (https://doi.org/10.1016/j.cub.2019.05.012)
+40: Szymanski J, Yuste R (2019) Mapping the whole-body muscle activity of Hydra vulgaris. Current Biology [LINK](https://doi.org/10.1016/j.cub.2019.05.012)
 
 ### 2018
 
-39: Izquierdo-Serra M, Hirtz JJ, Shababo B, Yuste R (2019) Two-photon optogenetic mapping of excitatory synaptic connectivity and strength [LINK] (https://doi.org/10.1016/j.isci.2018.09.008)
+39: Izquierdo-Serra M, Hirtz JJ, Shababo B, Yuste R (2019) Two-photon optogenetic mapping of excitatory synaptic connectivity and strength [LINK](https://doi.org/10.1016/j.isci.2018.09.008)
 
 38: Zhang Z, Russell LE, Packer AM, Gauld OM, Häusser M (2018) Closed-loop all-optical interrogation of neural circuits in vivo Nature Methods [LINK](https://doi.org/10.1038/s41592-018-0183-z)
 
