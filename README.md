@@ -39,7 +39,7 @@ Thank you to Rafael Yuste and all of the early beta testers in the Yuste lab. Mo
 
 ### 2023
 
-49. Shah PT, Valiante TA, Packer AM (2023) All-optical interrogation of excitability during seizure propagation reveals high local inhibition amidst baseline excitability. bioRxiv 524224 [LINK] (https://doi.org/10.1101/2023.01.16.524224)
+49: Shah PT, Valiante TA, Packer AM (2023) All-optical interrogation of excitability during seizure propagation reveals high local inhibition amidst baseline excitability. bioRxiv 524224 [LINK] (https://doi.org/10.1101/2023.01.16.524224)
 
 ### 2022
 
