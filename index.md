@@ -37,6 +37,9 @@ Thank you to Rafael Yuste and all of the early beta testers in the Yuste lab. Mo
 
 ## References
 
+### 2023
+
+49. Shah PT, Valiante TA, Packer AM (2023) All-optical interrogation of excitability during seizure propagation reveals high local inhibition amidst baseline excitability. bioRxiv 524224 [LINK] (https://doi.org/10.1101/2023.01.16.524224)
 ### 2022
 
 48: Shelton AM, Oliver DK, Grimstvedt JS, Lazarte IP, Kapoor I, Swann JA, Ashcroft CA, Williams SN, Conway N, Robinson A, Kentros CG, Witter MP, Butt SJB, Packer AM (2022) Single neurons and networks in the claustrum integrate input from widespread cortical sources. bioRxiv 490864 [LINK](https://doi.org/10.1101/2022.05.06.490864)
